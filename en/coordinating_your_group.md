@@ -18,7 +18,7 @@ On the **Members** page, there is a checkbox next to every member. When this che
 
 ### Adding/removing group members
 
-On the **Members** page, next to every member there is a **Remove **button ![Remove member button](remove_button.png). This button removes the member from your group.
+On the **Members** page, next to every member there is a **Remove** button ![Remove member button](remove_button.png). This will remove the user **from the group**: he/she will only be able to access the public information and discussions from the group, without being able to participate, just as a user would before joining the group. If the user has posted discussions, comments or proposals, they will remain visible in the group (unless a coordinator deletes them individually).
 
 ### Accepting/ignoring membership requests
 
