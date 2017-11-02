@@ -8,4 +8,4 @@ Autre possibilité si vous avez déjà présenté l'intérêt de Loomio à vos p
 
 ## Invitations en attente
 
-Si par hasard une invitation envoyée n‎‎’a pas été encore acceptée, elle sera mentionnée dans la section **Invitations en attente** de la page **les membres** accessible depuis le lien **Gérer les membres** dans le menu **Options** de la page du groupe. Vous pouvez révoquer une invitation en attente en appuyant sur le bouton Retirer (l‎‎’icône - au centre d‎‎’un cercle).
+Si par hasard une invitation envoyée n‎‎’a pas été encore acceptée, elle sera mentionnée dans la section **Invitations en attente** de la page **les membres** accessible depuis le lien **Gérer les membres** dans le menu **Options** de la page du groupe. Vous pouvez révoquer une invitation en attente en appuyant sur le bouton <img alt="Retirer" src="remove_button.png" />.

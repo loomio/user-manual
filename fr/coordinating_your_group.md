@@ -12,7 +12,7 @@ Lors de la première connexion à votre nouveau groupe Loomio, sont définis par
 
 Les coordinateurs de groupe peuvent ajouter/supprimer des membres et allouer ou supprimer les permissions **coordinateurs**. Ces actions peuvent être réalisées depuis la page Membres, accessible depuis le lien **Gérer les membres** situé dans le menu **Options** de la page de groupe.
 
-### Ajouter/supprimer des coordinateurs
+### Définir des coordinateurs
 
 Sur la page **Les membres**, une case à cocher permet de définir chaque membre comme étant ou non **coordinateur** du groupe. Il peut y avoir autant de coordinateurs que vous le souhaitez.
 
@@ -20,11 +20,11 @@ Sur la page **Les membres**, une case à cocher permet de définir chaque membre
 
 Sur la page **Les membres**, à côté de chaque membre, un [bouton **Suppression**&nbsp;: [Bouton de suppression de membre](images/remove_button.png) permet de retirer le membre de votre groupe. Quand vous retirez un membre de votre groupe, il n'aura plus accès aux contenus non publics de votre groupe et ne pourra plus participer aux discussions ou aux décisions. Ses éventuels commentaires, discussions, propositions resteront visible dans le groupe, sauf si un coordinateur les supprime.
 
-### Accepter/ignorer des demandes d‎’adhésion
+### Accepter/ignorer des demandes d‎’ajout
 
-Si vos [paramètres de visibilité du groupe](group_settings.html#group-privacy) autorisent les visiteurs à joindre votre groupe **sur demande**, un coordinateur devra approuver chaque demande. Dans ce cas, les coordinateurs de groupe recevront un courriel à chaque fois qu‎’un utilisateur demander à rejoindre le groupe. Le lien, envoyé dans le courriel vous redirigera vers la page **Demandes d‎’adhésion**, où vous pourrez approuver ou décliner la demande.
+Si vos [paramètres de visibilité du groupe](group_settings.html) autorisent n'importe qui à **demander à rejoindre votre groupe**, un coordinateur devra approuver chaque demande. Dans ce cas, les coordinateurs de groupe recevront un courriel à chaque fois qu‎’un utilisateur demander à rejoindre le groupe. Le lien envoyé dans le courriel vous redirigera vers la page **Demandes d‎’ajout en cours**, qui vous permettra d'accepter ou de refuser la demande.
 
-Si une demande est en attente, elle sera aussi visible sur la page de votre groupe, dans la zone **Demandes d‎’adhésion**.
+Si une demande est en attente, elle sera aussi visible sur la page de votre groupe, dans la zone **Demandes d‎’ajouts en cours**.
 
 ## Désactivation/archivage d‎’un groupe
 
