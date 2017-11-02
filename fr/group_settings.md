@@ -16,13 +16,13 @@ La description donne aux nouveaux membres une compréhension claire de ce qu‎�
 
 Vos options de visibilité déterminent qui peut trouver votre groupe, qui peut voir les fils de discussion dans votre groupe et comment les gens peuvent le rejoindre.
 
-Lorsque vous créez un nouveau groupe, il sera automatiquement **Fermé**&nbsp;: *les fils et la liste des membres ne seront visibles qu’aux membres du groupe, mais le nom du groupe et sa description seront publics.* Cela signifie que des gens peuvent trouver votre groupe et demander à le rejoindre, mais que le contenu de vos discussions et vos décisions resteront privés à moins d’accepter des fils publics (expliqué dans la section **Permisson de goupe**).
+Lorsque vous créez un nouveau groupe, il sera automatiquement **Fermé**&nbsp;: *les discussions et la liste des membres ne seront visibles qu’aux membres du groupe, mais le nom du groupe et sa description seront publics.* Cela signifie que des gens peuvent trouver votre groupe et demander à le rejoindre, mais que le contenu de vos discussions et vos décisions resteront privés à moins d’ouvrir ou de permettre à vos membres d'ouvrir des discussions publiques (expliqué dans la section **Permisson de goupe**).
 
 Si vous souhaitez que le contenu de vos discussions et de vos décisions soient publics sur le web, changez la visibilité de votre groupe à **Ouvert**. La liste des membres ne sera visible qu’aux autres membres.
 
 Si vous souhaitez totalement cacher votre groupe, changez la visibilité à **Secret**. Cela signifie que seuls les membres invités seront en mesure de voir le nom du groupe, sa description, la liste des membres et ses fils de discussion.
 
-Notez que si vous changez la visibilité d’un groupe **Secret** à **Ouvert**, tous les fils existants deviendront publics. Cela s’applique aussi au cas inverse&nbsp;: changer un groupe d’**Ouvert** à **Secret** rendra tous ses fils privés.
+Notez que si vous changez la visibilité d’un groupe **Secret** à **Ouvert**, toutes les discussions existantes deviendront publiques. Cela s’applique aussi au cas inverse&nbsp;: changer un groupe d’**Ouvert** à **Secret** rendra tous ses fils de discussions privés.
 
 
 
@@ -38,7 +38,7 @@ Dans les groupes **Fermé**, vous pouvez utiliser cette option pour autoriser de
 
 ### Inviter et approuver de nouveaux membres
 
-Cette option permet à tous les membres d‎‎’inviter de nouvelles personnes dans le groupe, et d‎‎’accepter n‎‎’importe quelle demande d‎‎’appartenance. Quand elle est désactivée, seuls les coordinateurs du groupe sont capables d‎‎’inviter et d‎‎’accepter de nouveaux membres.
+Cette option permet à tous les membres d‎‎’inviter de nouvelles personnes dans le groupe, et d‎‎’accepter n‎‎’importe quelle demande d‎‎’appartenance. Quand elle est désactivée, seuls les coordinateurs du groupe peuvent inviter et accepter de nouveaux membres.
 
 ### Créer des sous-groupes
 
@@ -50,11 +50,11 @@ Cette option permet à tous les membres de commencer un nouveau fil de discussio
 
 ### Éditer le contexte de n‎‎’importe quel fil de discussion du groupe
 
-Cela permet à chaque membre du groupe d‎‎’éditer le contexte de n‎‎’importe quel fil de discussion. Quand elle est désactivée, seuls les coordinateurs du groupe peuvent éditer le contexte du fil de discussion (la personne qui a commencé un fil de discussion peut toujours éditer le contexte du fil).
+Cela permet à chaque membre du groupe d‎‎’éditer le contexte de n‎‎’importe quel fil de discussion. Quand elle est désactivée, seuls les coordinateurs du groupe peuvent éditer le contexte du fil de discussion (la personne qui a commencé un fil de discussion peut toujours éditer le contexte de la discussion).
 
 ### Éditer ses commentaires à tout moment
 
-Cette option permet à tous les membres d‎‎’[éditer leurs commentaires](comments.html#editing-a-comment). Quand elle est désactivée, un commentaire peut être édité seulement jusqu‎‎’à ce que quelqu‎‎’un participe au fil de discussion.
+Cette option permet à tous les membres d‎‎’[éditer leurs commentaires](comments.html#editing-a-comment). Quand elle est désactivée, un commentaire peut être édité seulement jusqu‎‎’à ce que quelqu‎‎’un y réponde ou ajoute une autre commentaire.
 
 ### Soumettre une proposition
 
