@@ -18,7 +18,7 @@ Sur la page **Les membres**, une case à cocher permet de définir chaque membre
 
 ### Ajouter/supprimer des membres de groupe
 
-Sur la page **Les membres**, à côté de chaque membre, un [bouton **Suppression**&nbsp;: [Bouton de suppression de membre](images/remove_button.png) permet de retirer le membre de votre groupe.
+Sur la page **Les membres**, à côté de chaque membre, un [bouton **Suppression**&nbsp;: [Bouton de suppression de membre](images/remove_button.png) permet de retirer le membre de votre groupe. Quand vous retirez un membre de votre groupe, il n'aura plus accès aux contenus non publics de votre groupe et ne pourra plus participer aux discussions ou aux décisions. Ses éventuels commentaires, discussions, propositions resteront visible dans le groupe, sauf si un coordinateur les supprime.
 
 ### Accepter/ignorer des demandes d‎’adhésion
 
