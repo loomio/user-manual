@@ -1,5 +1,5 @@
-![](princing_eng_updated.png)
-*Prices are in US dollars, plus sales tax where applicable.*
+# Pricing
+You can compare features and prices of our different plans on our [Pricing page](https://www.loomio.org/pricing).
 
 # Frequently asked questions
 
