@@ -20,4 +20,3 @@
    * [Terms of Service](terms_of_service.md)
    * [Privacy Policy](privacy_policy.md)
    * [Third Party Services](third_party_services.md)
-
