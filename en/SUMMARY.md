@@ -1,17 +1,17 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
-* Joining a group
+* **Joining a group**
    * [Getting started](getting_started.md)
    * [Navigating Loomio](reading_loomio.md)
    * [Your user profile](your_user_profile.md)
    * [Keeping up to date](keeping_up_to_date.md)
-* Unleashing collective intelligence
+* **Unleashing collective intelligence**
    * [Discussion threads](discussion_threads.md)
    * [Comments](comments.md)
-* Making decisions
+* **Making decisions**
    * [Proposals](proposals.md)
-* Starting a group
+* **Starting a group**
    * [Group settings](group_settings.md)
    * [Inviting new members](inviting_new_members.md)
    * [Coordinating your group](coordinating_your_group.md)

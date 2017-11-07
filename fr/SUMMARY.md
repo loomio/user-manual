@@ -1,17 +1,21 @@
 # Table des matières
 
 * [Introduction](README.md)
-* [Avant de commencer](getting_started.md)
-* [Configurer votre groupe](group_settings.md)
-* [Coordonner votre groupe](coordinating_your_group.md)
+* **Rejoindre un groupe**
+   * [Avant de commencer](getting_started.md)
+   * [Naviguer dans Loomio](reading_loomio.md)
+   * [Votre profil](your_user_profile.md)
+   * [Se tenir au courant](keeping_up_to_date.md)
+* **Développez l'intelligence collective**
+   * [Discussions](discussion_threads.md)
+   * [Commentaires](comments.md)
+* **Prenez des décisions**
+   * [Propositions](proposals.md)
+* **Gérez un groupe**
+   * [Configurer votre groupe](group_settings.md)
+   * [Inviter de nouveaux membres](inviting_new_members.md)
+   * [Coordonner votre groupe](coordinating_your_group.md)
    * [Fonctionnalités premium et offres](pricing.md)
-* [Inviter de nouveaux membres](inviting_new_members.md)
-* [Discussions](discussion_threads.md)
-* [Commentaires](comments.md)
-* [Propositions](proposals.md)
-* [Naviguer dans Loomio](reading_loomio.md)
-* [Se tenir au courant](keeping_up_to_date.md)
-* [Votre profil](your_user_profile.md)
 * [Foire aux questions](frequently_asked_questions.md)
 * [Policies & More Info (en anglais)](../en/policies.md)
    * [Security FAQ (en anglais)](../en/security_privacy.md)
