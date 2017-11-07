@@ -1,5 +1,5 @@
 {
-	"plugins": ["ga", "edit-link", "versions"],
+	"plugins": ["ga", "edit-link"],
 	"pluginsConfig": {
 		"ga": {
 			"token": "UA-31046122-6"
@@ -11,9 +11,6 @@
 				"de": "Seite bearbeiten",
                 "fr": "Modifier cette page"
 			}
-		},
-		"versions": {
-			"type": "languages"
 		}
 	},
 	"styles": {
