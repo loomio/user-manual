@@ -1,18 +1,22 @@
 {
-    "plugins": ["ga","github-edit","versions"],
-    "pluginsConfig": {
-      "ga": {
-        "token": "UA-31046122-6"
-      },
-      "github-edit": {
-            "repo": "juliencarnot/user-manual",
-            "branch": "master"
-        },
-"versions": {
-            "type": "languages"
-        }
-    },
-    "styles": {
-        "website": "styles/website.css"
-    }
+	"plugins": ["ga", "edit-link", "versions"],
+	"pluginsConfig": {
+		"ga": {
+			"token": "UA-31046122-6"
+		},
+		"edit-link": {
+			"base": "https://github.com/loomio/user-manual/edit/master",
+			"label": {
+				"en": "Edit This Page",
+				"de": "Seite bearbeiten",
+                "fr": "Modifier cette page"
+			}
+		},
+		"versions": {
+			"type": "languages"
+		}
+	},
+	"styles": {
+		"website": "styles/website.css"
+	}
 }
