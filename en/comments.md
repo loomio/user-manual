@@ -24,9 +24,11 @@ If you want to get the attention of a specific person in your group, type **@** 
 
 By default, groups are configured so that a comment can only be edited until someone else contributes a comment to the thread. Group coordinators can also [configure groups to allow users to edit their comments at any time](group_settings.html#group-permissions-%E2%80%93-what-can-members-do "group settings section of the help documentation" ). If you are able to edit your comment, the **Edit comment** option is in the **Comment options** dropdown.
 
-## Liking comments
+## Express your feelings
 
-You can show another member of your group that you appreciate or understand what they’ve said by using the **Like** button below the comment. This will add your name to the list of people who like the comment. You can undo the **Like** action by clicking **Unlike** on the comment.
+You can use emojis when typing your comment.
+
+You can also share your feelings on a discussion or comment without writing a comment: just pick an emoji from the selection. Your emoji will be displayed with your name and the author will see a notification for it. You can change or remove it by clicking the emoji you picked.
 
 ## Deleting comments
 

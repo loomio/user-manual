@@ -62,3 +62,9 @@ This allows anyone in your group to start a proposal within a thread. When this 
 ### Vote on proposals
 
 This allows everyone in your group to state their position on proposals. When it is deselected only group coordinators will be able to state their position on proposals.
+
+## Leaving a group
+
+<img class="screenshot" alt="Group options dropdown menu" src="options_dropdown.png" />
+
+If you are not the sole coordinator of a group then you can leave the group by selecting **Leave Group** from the **Options** menu on the group page. If you are the sole coordinator of your group, you will be prevented from leaving until you appoint another coordinator or deactivate the group.

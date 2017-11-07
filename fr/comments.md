@@ -28,7 +28,7 @@ Dans la configuration par défaut des groupes, un commentaire peut être modifi�
 
 Vous pouvez ajouter des émoticônes dans le texte de vos commentaires.
 
-Vous pouvez aussi simplement montrer que vous appréciez ou que vous comprenez ce que dit un autre membre du groupe sans écrire un commentaire, en **ajoutant une émoticône** parmi les choix proposés. Cela ajoutera votre nom à la liste des personnes qui ont partagé leur émotion. Vous pouvez également annuler ce partage en cliquant de nouveau sur l'émoticône que vous avez choisi.
+Vous pouvez aussi simplement montrer que vous appréciez ou que vous comprenez ce que dit un autre membre du groupe sans écrire un commentaire, en **ajoutant une émoticône** parmi les choix proposés. Cela ajoutera votre nom à la liste des personnes qui ont partagé leur émotion et s'affichera dans une notification pour l'auteur du commentaire ou de la discussion. Vous pouvez également annuler ce partage en cliquant de nouveau sur l'émoticône que vous avez choisi.
 
 ## Supprimer les commentaires
 

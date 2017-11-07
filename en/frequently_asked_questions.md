@@ -61,8 +61,8 @@ Yes. We can, for example, set up **[your-group-name].loomio.org** as the URL for
 ## Accessibility
 
 Loomio is committed to accessibility, we try our best to integrate the WCAG standards. The web pages are designed with a common look and feel layout of Regions and Heading hierarchy for ease of keyboard navigation.
-Loomio should be compatible with most screen readers, but it was primarily tested with the JAWS screen reader. User feedback is critical in measuring the usability, so we encourage screen reader users to send us feedback so we can keep on improving the accessibility on Loomio.
+Loomio should be compatible with most screen readers, but it was primarily tested with the JAWS screen reader. User feedback is critical in measuring the usability, so we encourage screen reader users to send us feedback either by ([email ](https://loomio.org/contact)) or on the [Loomio Accessibility group](https://www.loomio.org/g/3ouBZhAL/loomio-community-accessibility), so we can keep on improving the accessibility on Loomio.
 
 ## My question is not here
 
-If you have any questions or issues that are not answered through this Help Manual, you can join the [Loomio Community Help](https://www.loomio.org/invitations/716ae5abb84f4a5ea75c "open in new tab to join the group") subgroup. Read the existing thread, or start a new one, to get help and tips from our community.
+If you have any questions or issues that are not answered through this Help Manual, you can join the [Loomio Community Help](https://www.loomio.org/invitations/716ae5abb84f4a5ea75c "open in new tab to join the group") subgroup. Search and read the existing threads, and start a new one if they don't answer your question, to get help and tips from our community.

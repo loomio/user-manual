@@ -26,13 +26,13 @@ Il y a un guide d‎‎’installation sur notre [wiki Github](https://github.co
 
 ## J‎‎’ai accepté des demandes d‎‎’adhésion de personnes qui veulent rejoindre mon groupe, mais elles n‎‎’apparaissent pas comme membres, que se passe-t-il‎&nbsp;?
 
-Si quelqu‎‎’un qui a demandé à faire partie de votre groupe ne possède pas de compte Loomio, il devra d‎‎’abord en créer un avant de rejoindre votre groupe. Après votre validation de sa demande, il va recevoir un courriel de confirmation. Aller sur le lien contenu dans le courriel affichera une invitation à créer un compte Loomio. Quand son compte aura été créé, il apparaîtra comme membre d‎‎’un groupe.
+Si quelqu‎‎’un qui a demandé à faire partie de votre groupe ne possède pas de compte Loomio, il devra d‎‎’abord en créer un avant de rejoindre votre groupe. Après votre validation de sa demande, il va recevoir un courriel de confirmation. Le lien contenu dans le courriel affichera une invitation à créer un compte Loomio. Quand son compte aura été créé, il apparaîtra comme membre d‎‎’un groupe.
 
 ## Comment puis-je empêcher d‎‎’inclure ma signature dans les courriels de réponse aux fils de discussions‎&nbsp;?
 
-Il n‎‎’y a pour l‎‎’instant aucun standard officiel pour distinguer les signatures de courriel du reste du corps du courriel. Pour un ordinateur, le courriel en entier est juste un texte d‎‎’un seul bloc. La méthode la plus simple que nous avons pour marquer la fin du corps du courriel et le début de la signature est la méthode du tiret double popularisé par Gmail, et qui consiste à insérer un tiret double ("--") sur la ligne entre le corps du courriel et la signature. D‎‎’autres formats communs sont  aussi reconnus, mais la méthode de Gmail est vraiment facile à implémenter. La plupart des programmes qui essayent de séparer le corps du courriel de la signature (dont Loomio) vont en effet ignorer la signature du courriel si ces tirets sont placés au bon endroit.
+Il n‎‎’y a pour l‎‎’instant aucun standard officiel pour distinguer les signatures de courriel du reste du corps du courriel. Pour un ordinateur, le courriel en entier est juste un texte d‎‎’un seul bloc. La méthode la plus simple que nous avons pour marquer la fin du corps du courriel et le début de la signature est la méthode du tiret double popularisé par Gmail, et qui consiste à insérer deux tirets ("--") sur la ligne entre le corps du courriel et la signature. D‎‎’autres formats communs sont aussi reconnus, mais la méthode de Gmail est vraiment facile à implémenter. La plupart des programmes qui essayent de séparer le corps du courriel de la signature (dont Loomio) vont en effet ignorer la signature du courriel si ces tirets sont placés au bon endroit.
 
-Pour être sûr que votre signature de courriel n‎‎’est pas incluse dans vos commentaires quand vous répondez à un courriel, votre signature doit commencer avec un tiret double sur la ligne au-dessus.
+Pour être sûr que votre signature de courriel n‎‎e soit pas incluse dans vos commentaires quand vous répondez à un commentaire directement par courriel, ajoutez deux tirets sur une ligne vide entre votre commentaire et votre signature.
 
 ## Est-ce que Loomio va fonctionner sur mon appareil mobile‎&nbsp;?
 
@@ -44,7 +44,7 @@ Pour réactiver votre compte, [contactez nous](https://loomio.org/contact).
 
 ## J‎‎’ai désactivé mon groupe, puis-je le restaurer‎&nbsp;?
 
-Les groupes désactivés peuvent être restaurés uniquement par un membre de l‎‎’équipe de Loomio.  [Contactez-nous](https://loomio.org/contact) pour réactiver votre groupe.
+Les groupes désactivés peuvent être restaurés uniquement par un membre de l‎‎’équipe de Loomio. [Contactez-nous](https://loomio.org/contact) pour réactiver votre groupe.
 
 ## Comment puis-je suggérer une fonctionnalité‎&nbsp;?
 
@@ -52,17 +52,18 @@ Nous avons aussi un sous-groupe dans la Communauté Loomio dédié aux [idées d
 
 ## Est-ce qu‎‎’il existe une API Loomio‎&nbsp;?
 
-Nous sommes en train de développer et utiliser l‎‎’API que le nouveau client Loomio 1.0 utilise. Elle implémente tout ce dont un client Loomio communiquant avec un service web aurait besoin. Il n‎‎’y a pour l‎‎’instant pas d‎‎’API serveur-à-serveur, mais Loomio est [open source](http://github.com/loomio/loomio) et les contributions sont bienvenues.
+Nous sommes en train de développer et d'utiliser l‎‎’API que le nouveau client Loomio 1.0 utilise. Elle implémente tout ce dont un client Loomio communiquant avec un service web aurait besoin. Il n‎‎’y a pour l‎‎’instant pas d‎‎’API serveur-à-serveur, mais Loomio est [open source](http://github.com/loomio/loomio) et les contributions sont bienvenues.
 
 ## Est-il est possible d‎‎’avoir un sous-domaine Loomio‎&nbsp;?
 
-Oui. On peut, par exemple, configurer **\[votre-nom-de-groupe\].loomio.org** comme adresse URL pour votre groupe. [Contactez-nous](https://loomio.org/contact) si vous êtes intéressé.
+Oui. Nous pouvons, par exemple, configurer **\[votre-nom-de-groupe\].loomio.org** comme adresse URL pour votre groupe si vous utilisez une [offre payante](pricing.md). [Contactez-nous](https://loomio.org/contact) si vous êtes intéressé.
 
-## Accessibility
+## Accessibilité
 
-Loomio is committed to accessibility, we try our best to integrate the WCAG standards. The web pages are designed with a common look and feel layout of Regions and Heading hierarchy for ease of keyboard navigation.
-Loomio should be compatible with most screen readers, but it was primarily tested with the JAWS screen reader. User feedback is critical in measuring the usability, so we encourage screen reader users to send us feedback so we can keep on improving the accessibility on Loomio.
+Loomio se veut accessible et nous faisons de notre mieux pour respecter les standards WCAG. Les pages de l'application reprennent le même aspect et la même organisation, en hiérarchisant les régions et titres pour la navigation au clavier.
+
+Loomio devrait être utilisable avec la majorité des logiciels de synthèse vocale, mais a principalement été testé avec JAWS. Les retours utilisateurs sont déterminants pour améliorer encore l'accessibilité, nous invitons tous les utilisateurs de solutions de synthèse vocale ou d'autres technologies d'assistance à nous faire part de leurs avis et suggestions, que ce soit par courriel ([Contactez-nous](https://loomio.org/contact)) ou sur le [groupe dédié à cet enjeu](https://www.loomio.org/g/3ouBZhAL/loomio-community-accessibility).
 
 ## J‎‎’ai une autre question sans réponse ici
 
-Si vous avez des questions ou des problèmes qui ne sont pas mentionnés dans ce guide, vous pouvez rejoindre le sous-groupe [Aide de la Communauté Loomio](https://www.loomio.org/invitations/716ae5abb84f4a5ea75c). Lisez les fils de discussions existants, ou commencez un nouveau fil, pour obtenir de l‎‎’aide et des astuces de notre communauté.
+Si vous avez des questions ou des problèmes qui ne sont pas mentionnés dans ce guide, vous pouvez rejoindre le sous-groupe [Aide de la Communauté Loomio](https://www.loomio.org/invitations/716ae5abb84f4a5ea75c). Lisez les fils de discussions existants et si aucun ne répond à votre question, commencez un nouveau fil, pour obtenir de l‎‎’aide et des astuces de notre communauté.
