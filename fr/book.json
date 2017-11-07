@@ -1,21 +1,4 @@
 {
-	"plugins": ["ga", "edit-link", "versions"],
-	"pluginsConfig": {
-		"ga": {
-			"token": "UA-31046122-6"
-		},
-		"edit-link": {
-			"base": "https://github.com/loomio/user-manual/edit/master",
-			"label": {
-				"en": "Edit This Page",
-				"de": "Seite bearbeiten",
-                "fr": "Modifier cette page"
-			}
-		},
-		"versions": {
-			"type": "languages"
-		}
-	},
   "title": "Guide utilisateur Loomio",
   "description": "Un guide complet pour Loomio",
   "language": "fr"
