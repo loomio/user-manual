@@ -1,17 +1,17 @@
 # Table des matières
 
 * [Introduction](README.md)
-* **Rejoindre un groupe**
+* Rejoindre un groupe
    * [Avant de commencer](getting_started.md)
    * [Naviguer dans Loomio](reading_loomio.md)
    * [Votre profil](your_user_profile.md)
    * [Se tenir au courant](keeping_up_to_date.md)
-* **Développez l'intelligence collective**
+* Développez l'intelligence collective
    * [Discussions](discussion_threads.md)
    * [Commentaires](comments.md)
-* **Prenez des décisions**
+* Prenez des décisions
    * [Propositions](proposals.md)
-* **Gérez un groupe**
+* Gérez un groupe
    * [Configurer votre groupe](group_settings.md)
    * [Inviter de nouveaux membres](inviting_new_members.md)
    * [Coordonner votre groupe](coordinating_your_group.md)
