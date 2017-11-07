@@ -1,9 +1,16 @@
 {
-    "plugins": ["ga"],
+    "plugins": ["ga","github-edit","versions"],
     "pluginsConfig": {
       "ga": {
         "token": "UA-31046122-6"
-      }
+      },
+      "github-edit": {
+            "repo": "juliencarnot/user-manual",
+            "branch": "master"
+        },
+"versions": {
+            "type": "languages"
+        }
     },
     "styles": {
         "website": "styles/website.css"
