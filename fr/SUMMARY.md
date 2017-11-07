@@ -13,7 +13,7 @@
 * [Se tenir au courant](keeping_up_to_date.md)
 * [Votre profil](your_user_profile.md)
 * [Foire aux questions](frequently_asked_questions.md)
-* [Policies & More Info (en anglais)](https://raw.githubusercontent.com/juliencarnot/user-manual/master/en/policies.md)
+* [Policies & More Info (en anglais)](../en/policies.md)
    * [Security FAQ (en anglais)](../en/security_privacy.md)
    * [Terms of Service (en anglais)](../en/terms_of_service.md)
    * [Privacy Policy (en anglais)](../en/privacy_policy.md)
