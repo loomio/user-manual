@@ -4,7 +4,7 @@
 
 To contribute to a thread, enter your comment into the comment form at the bottom of a thread and click the **Post** button. If Loomio has emailed you a comment, you can also reply directly from your email and your message will appear in the thread.
 
-## Markdown
+## Formatting comments
 
 Loomio uses **Markdown** to let you format text and embed images. For more information on how to use Markdown, read [this guide](https://www.loomio.org/markdown "Explanation on how to use Markdown opens in new tab").
 

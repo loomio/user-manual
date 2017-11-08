@@ -20,6 +20,10 @@ The **Start new thread** form asks for a **Title** and **Context**. The **Title*
 
 Loomio uses **Markdown** for text formatting. You can use Markdown in the context panel to format your discussion context, or to embed images. For more information on how to use Markdown, click the **Formatting help** link underneath the comment box at the bottom of the thread page to open [the Markdown guide](https://loomio.org/markdown "opens Markdown guide in a new tab").
 
+<img class="screenshot" alt="Attachments animation" src="attachments.gif" />
+
+You can attach files to a discussion using the attachment button next to the **Post** button on the form. You will be prompted to select a file from your device.
+
 ## Thread privacy
 
 If your [group settings](group_settings.html "goes to group settings section on the help manual") allow both public and private threads, when you start a thread you can choose whether it is public (publicly searchable), or private (only visible to members of your group).

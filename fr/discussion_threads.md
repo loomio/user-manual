@@ -20,6 +20,10 @@ Le formulaire **Nouvelle discussion** vous demande un **Titre** et un **Contexte
 
 Loomio utilise la syntaxe **Markdown** pour la mise en page de texte. Vous pouvez utiliser le Markdown dans la partie contextuelle pour mettre en page le contexte de votre discussion, ou pour mettre une image. Pour plus d‎’informations sur l‎’utilisation du Markdown, cliquez sur le lien **Aide pour la mise en page** en dessous des commentaires en bas de la page des fils de discussion pour ouvrir [le guide Markdown](https://loomio.org/markdown).
 
+<img class="screenshot" alt="Icône de pièce jointe" src="attachments.gif" />
+
+Vous pouvez joindre des fichiers à votre contexte de discussion en utilisant le bouton des pièces-jointes près du bouton **Publier** sur le formulaire de discussion. Il vous sera alors demandé de sélectionner un fichier sur votre appareil.
+
 ## Discussions privées
 
 Si vos [paramètres de groupe](group_settings.html) permettent aussi bien les fils de discussion publics que privés, lorsque vous démarrez un fil, vous devez choisir s’il est public (publiquement accessible à tout internaute), ou privé (seulement visible par les membres de votre groupe).
