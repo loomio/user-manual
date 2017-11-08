@@ -14,7 +14,7 @@ Les pages de discussion ont trois sections principales&nbsp;:
 
 ## Commencer une discussion
 
-Vous pouvez commencer un nouveau fil de discussion depuis le bouton **Nouvelle discussion** sur la page du groupe.
+Vous pouvez commencer un nouveau fil de discussion depuis le bouton **Nouvelle discussion** sur la page du groupe ou dans la barre latérale.
 
 Le formulaire **Nouvelle discussion** vous demande un **Titre** et un **Contexte**. Le **Titre** est une description succincte du sujet à discuter. Le **Contexte** est fait pour partager les informations sur le sujet de discussion afin de permettre aux membres de votre groupe d‎’y participer pleinement. Soyez synthétique, mais donnez les informations utiles pour éviter les malentendus ou les débats hors-sujets. Vous pouvez mettre à jour le **Contexte** à tout moment, ce qui peut être un manière utile de résumer un fil de discussion complexe.
 
