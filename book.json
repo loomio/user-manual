@@ -1,5 +1,5 @@
 {
-	"plugins": ["ga", "edit-link"],
+	"plugins": ["ga", "edit-link", "language-picker"],
 	"pluginsConfig": {
 		"ga": {
 			"token": "UA-31046122-6"
