@@ -10,7 +10,7 @@ Pour changer vos paramètres de groupe, ouvrez le menu **Options** sur la page d
 
 Votre profil de groupe est constitué de votre nom de groupe et de la description de votre groupe.
 
-La description permet d'expliquer rapidement aux nouveaux membres ce qu‎‎’est le groupe. Quand vous ajoutez une description de groupe, décrivez ce que votre groupe compte faire, par exemple, *Un groupe public pour que nous puissions approuver les demandes d‎‎’utilisation de la galerie* ou *L‎‎’espace pour les membres de notre conseil afin de considérer les propositions de budget*.
+La description permet d'expliquer rapidement aux nouveaux membres ce qu‎‎’est le groupe. Quand vous ajoutez une description de groupe, décrivez ce que votre groupe compte faire, par exemple, *« Un groupe public pour que nous puissions approuver les demandes d‎‎’utilisation de la galerie »* ou *« L‎‎’espace pour les membres de notre conseil afin de considérer les propositions de budget »*.
 
 ## Visibilité du groupe: qui peut voir les discussions et rejoindre le groupe?
 

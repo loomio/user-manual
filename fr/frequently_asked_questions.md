@@ -16,7 +16,7 @@ Oui. Même s‎‎’il existe différents niveaux de confidentialité pour le g
 
 Consultez nos tarifs [ici](https://www.loomio.org/pricing).
 
-## Puis-je me connecter via Google, Facebook ou Twitter‎&nbsp;?
+## Puis-je me connecter via Google, Facebook ou Slack‎&nbsp;?
 
 Oui, consultez [Single sign-on](getting_started.html#single-sign-on).
 
@@ -26,7 +26,7 @@ Il y a un guide d‎‎’installation sur notre [wiki Github](https://github.co
 
 ## J‎‎’ai accepté des demandes d‎‎’adhésion de personnes qui veulent rejoindre mon groupe, mais elles n‎‎’apparaissent pas comme membres, que se passe-t-il‎&nbsp;?
 
-Si quelqu‎‎’un qui a demandé à faire partie de votre groupe ne possède pas de compte Loomio, il devra d‎‎’abord en créer un avant de rejoindre votre groupe. Après votre validation de sa demande, il va recevoir un courriel de confirmation. Le lien contenu dans le courriel affichera une invitation à créer un compte Loomio. Quand son compte aura été créé, il apparaîtra comme membre d‎‎’un groupe.
+Si quelqu‎‎’un qui a demandé à faire partie de votre groupe ne possède pas de compte Loomio, il devra d‎‎’abord en créer un avant de rejoindre votre groupe. Après votre validation de sa demande, il recevra un courriel de confirmation. Le lien contenu dans le courriel affichera une invitation à créer un compte Loomio. Quand son compte aura été créé, il apparaîtra comme membre d‎‎’un groupe.
 
 ## Comment puis-je empêcher d‎‎’inclure ma signature dans les courriels de réponse aux fils de discussions‎&nbsp;?
 
