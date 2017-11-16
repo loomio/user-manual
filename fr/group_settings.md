@@ -10,7 +10,7 @@ Pour changer vos paramètres de groupe, ouvrez le menu **Options** sur la page d
 
 Votre profil de groupe est constitué de votre nom de groupe et de la description de votre groupe.
 
-La description permet d'expliquer rapidement aux nouveaux membres ce qu‎‎’est le groupe. Quand vous ajoutez une description de groupe, décrivez ce que votre groupe compte faire, par exemple, *Un groupe public pour que nous puissions approuver les demandes d‎‎’utilisation de la galerie* ou *L‎‎’espace pour les membres de notre conseil afin de considérer les propositions de budget*.
+La description permet d'expliquer rapidement aux nouveaux membres ce qu‎‎’est le groupe. Quand vous ajoutez une description de groupe, décrivez ce que votre groupe compte faire, par exemple, *« Un groupe public pour que nous puissions approuver les demandes d‎‎’utilisation de la galerie »* ou *« L‎‎’espace pour les membres de notre conseil afin de considérer les propositions de budget »*.
 
 ## Visibilité du groupe: qui peut voir les discussions et rejoindre le groupe?
 
@@ -23,8 +23,6 @@ Si vous souhaitez que le contenu de vos discussions et de vos décisions soient 
 Si vous souhaitez totalement cacher votre groupe, changez la visibilité à **Secret**. Cela signifie que seuls les membres invités seront en mesure de voir le nom du groupe, sa description, la liste des membres et ses fils de discussion.
 
 Notez que si vous changez la visibilité d’un groupe **Secret** à **Ouvert**, toutes les discussions existantes deviendront publiques. Cela s’applique aussi au cas inverse&nbsp;: changer un groupe d’**Ouvert** à **Secret** rendra tous ses fils de discussions privés.
-
-
 
 ## Permissions du groupe – Que peuvent faire les membres&nbsp;?
 
@@ -62,3 +60,9 @@ Cette option permet à tous les membres de créer un sondage ou un vote pour abo
 
 ### Participer aux décisions
 Cette option permet à tous les membres de participer à une décision. Quand cette option n'est pas activée, seul les coordinateurs du groupe peuvent participer à une décision.
+
+## Quitter un groupe
+
+<img class="screenshot" alt="Menu des options de groupe" src="options_dropdown.png" />
+
+Si vous n‎‎’êtes pas le seul coordinateur d‎‎’un groupe, vous pouvez quitter le groupe en sélectionnant **Quitter le groupe** depuis le menu Options sur la page du groupe. Si vous êtes le seul coordinateur de votre groupe, vous ne pourrez pas le quitter tant que vous n‎‎’aurez pas désigné un autre coordinateur ou désactivé le groupe.

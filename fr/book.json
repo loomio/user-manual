@@ -1,10 +1,5 @@
 {
-  "plugins": ["ga"],
-  "pluginsConfig": {
-    "ga": {
-      "token": "UA-31046122-6"
-    }
-  },
-  "title": "Loomio manual",
-  "description": "A comprehensive guide to Loomio"
+  "title": "Guide utilisateur Loomio",
+  "description": "Un guide complet pour Loomio",
+  "language": "fr"
 }

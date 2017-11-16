@@ -1,57 +1,47 @@
 # Se tenir à jour
 
+## Notifications
+Dans la [barre de navigation](reading_loomio.html), l'icône Alarme vous permettra d'afficher toutes les activités dans les discussions que vous avez démarré ou auxquelles vous avez participé, ainsi que les @mentions vous concernant. Cliquez sur une notification pour voir l'activite et y réagir.
+
+
 ## Paramètres des courriels
+Vos paramètres e-mail définissent ce que vous recevrez de Loomio, d'un groupe ou d'une discussion spécifique. Il y a 3 options pour chacun de ces périmètres. Notez que vous pouvez répondre directement aux e-mails vous notifiant des commentaires: votre réponse s'affichera dans les commentaires sur Loomio, sans que vous n'ayez à vous connecter à Loomio.
 
-Les paramètres de vos e-mails contrôlent la fréquence à laquelle vous entendez parler d‎‎’un groupe ou d‎‎’un fil de discussion spécifique. Il y a trois paramètres pour chaque groupe et fil.
+### Paramètres généraux des courriels
 
-Vos paramètres de courriels vous permettent de définir la fréquence à laquelle vous avez des nouvelles d‎‎’un groupe ou d‎‎’un fil de discussion particulier. Il existe trois paramètres valables à la fois pour les groupes et les fils de discussion.
+3 options peuvent s'appliquer à votre compte sur Loomio. Vous pouvez choisir celles qui vous conviennent le mieux dans le menu utilisateur, en cliquant sur **Paramètres e-mail**.
 
-### Paramètres de la messagerie pour les groupes
-<img class="screenshot" alt="Notifications de groupe" src="edit_group_notifications.gif" />
+<img class="gif" alt="email settings" src="email-settings.gif" />
 
-Pour modifier vos paramètres de courriel de groupe, affichez le menu déroulant **Options**, faites défiler et sélectionnez **Paramètres de courriel**.
+* **Résumé quotidien**&nbsp;: tous les matins vous recevrez un courriel résumant toutes les activités que vous avez manquées la veille. Ce message fournit une option  simple pour rester à jour avec les activités Loomio.
+* **Notification sur les discussions auxquelles je participe**&nbsp;: lorsque vous participez à une discussion, toute nouvelle activité vous sera immédiatement envoyée par courriel.
+* **Mentions**&nbsp;: lorsque quelqu‎‎’un veut attirer votre attention il peut mentionner votre @nom dans un commentaire qui vous sera notifié. Nous recommandons de toujours activer ce paramètre, afin d‎‎’être informé par courriel dans ce cas.
 
-* **Toute activité**&nbsp;: vous recevrez un courriel à chaque fois qu‎‎’il y a de l‎‎’activité (commentaires, votes, nouveaux fils, propositions, et résultats de proposition) dans ce groupe. **Toute activité** est le paramètre par défaut pour les nouveaux groupes. La section **Mettre à jour les paramètres de courriel pour tous les groupes** explique comment modifier les paramètres de courriel par défaut pour les nouveaux groupes.
+### Paramètres des courriels par groupe
 
-* **Activité importante**&nbsp;: vous recevrez un courriel au sujet des nouveaux fils et propositions (c‎‎’est-à-dire lorsqu‎‎’une proposition est créée, s‎‎’apprête à fermer ou quand un résultat est créé pour une proposition).
+Vous pouvez affiner ces choix en fonction des groupes. Pour cela, ouvrez le menu déroulant **Options** sur la page du groupe et cliquez sur **Paramètres e-mail** ou ouvrez vos **Paramètres e-mail** depuis le menu utilisateur pour définir vos préférences pour plusieurs groupes.
 
-*  **Aucun courriel**&nbsp;: vous ne recevrez aucun courriel portant sur l‎‎’activité dans ce groupe, mais vous pourrez voir les dernières mises à jour sur les pages [**Non lues**]((#reading_loomio.html#unread-threads) et la page **Récent**.
+<img class="screenshot" alt="Group notifications" src="edit_group_notifications.gif" />
 
-Pour appliquer les mêmes paramètres à l‎‎’ensemble de vos groupes, cochez la case **Appliquer ces paramètres à tous mes groupes** avant d‎‎’envoyer le formulaire.
+Pour chaque groupe dont vous êtes membre ou pour tous les groupes que vous rejoindrez à l'avenir, vous pouvez choisir l'une de ces options:
 
-### Paramètres de la messagerie d‎‎’un fil de discussion
-<img class="screenshot" alt="Notifications liées à un fil" src="edit_thread_notifications.gif" />
+* **Toute l'activité**&nbsp;: vous recevrez un courriel à chaque fois qu‎‎’il y a une activité (commentaires, votes, nouveaux fils, propositions, et résultats de proposition) dans ce groupe. **Toute l'activité** est le paramètre par défaut pour les nouveaux groupes.
+* **Nouvelle discussion ou décision**&nbsp;: vous recevrez un courriel au sujet des nouvelles discussions et décisions (c‎‎’est-à-dire lorsqu‎‎’une décision est créée, s‎‎’apprête à fermer ou quand un résultat est créé pour une décision).
+*  **Aucun courriel**&nbsp;: vous ne recevrez aucun courriel portant sur l‎‎’activité dans ce groupe, vous devrez vous connecter à Loomio et consulter les pages [**Discussions non lues**](reading_loomio.html#unread-threads) et **Discussions Récentes**.
 
-Lorsque vous commencez un nouveau fil de discussion, il hérite des paramètres de courriel par défaut attribués par son groupe. Pour modifier les paramètres de courriel, ouvrez le menu déroulant des options du fil et sélectionnez dans ce menu **Paramètres de courriel**.
+Vous pouvez également appliquer votre choix à tous vos groupes en cochant la dernière case.
 
-* **Toute activité**&nbsp;: vous recevrez un courriel à chaque fois qu‎‎’il y a de l‎‎’activité (commentaires, nouvelles propositions, votes et résultats d‎‎’une proposition) dans ce fil.
+### Paramètres des courriels par discussion
 
-* **Activité importante**&nbsp;: vous recevrez un courriel lorsqu‎‎’une proposition est créée, s‎‎’apprête à fermer ou lorsqu‎‎’un résultat est créé.
+<img class="screenshot" alt="thread notifications" src="edit_thread_notifications.gif" />
 
-* **Aucun courriel**&nbsp;: vous ne recevrez aucun courriel au sujet de ce fil.
+Lorsque vous démarrez une nouvelle discussion, vos paramètres s'appliqueront par défaut. Vous pouvez les modifier pour une discussion en particulier en utilisant le menu déroulant Options de la discussion et en cliquant sur **Paramètres e-mail**.
 
-Pour que les mêmes paramètres soient définis pour l‎‎’ensemble de vos fils de discussion, cochez la case **Appliquer ces paramètres à tous les fils de discussion dans ce groupe** avant d‎‎’envoyer le formulaire.
 
-If you have muted a thread you won't be notified about proposals, or any other activity taking place in the thread, unless someone @mentions you. You can read more about muting threads under the **Muted** subheading in the **Navigating Loomio** section of the help documentation.
+* **Toute l'activité**&nbsp;: vous recevrez un courriel à chaque fois qu‎‎’il y a une activité (commentaires, votes, nouveaux fils, propositions, et résultats de proposition) dans ce groupe. **Toute l'activité** est le paramètre par défaut pour les nouveaux groupes.
+* **Nouvelle discussion ou décision**&nbsp;: vous recevrez un courriel au sujet des nouvelles décisions (c‎‎’est-à-dire lorsqu‎‎’une décision est créée, s‎‎’apprête à fermer ou quand un résultat est créé pour une décision).
+*  **Aucun courriel**&nbsp;: vous ne recevrez aucun courriel portant sur l‎‎’activité de cette discussion, vous devrez vous connecter à Loomio pour la suivre.
 
-### Mettre à jour les paramètres de messagerie pour tous les groupes
+Vous pouvez également appliquer votre choix à toutes les discussion de ce groupe en cochant la dernière case.
 
-<img class="gif" alt="Configurer les courriels" src="email-settings.gif" />
-
-Il y a trois paramètres de messagerie électronique supplémentaires qui peuvent être appliquées à tous les groupes.
-
-**Messagerie, résumé quotidien**&nbsp;: l‎‎’activation de ce paramètre signifie que tous les matins vous recevrez un courriel résumant toutes les activités que vous avez manquées la veille. Cette messagerie fournit une routine simple pour rester à jour avec les activités Loomio.
-
-**S‎‎’abonner…**&nbsp;: activer ce réglage signifie que, lorsque vous participez à un fil de discussion, toute nouvelle activité vous sera immédiatement envoyée par courriel.
-
-**Avertir quand je suis mentionné**&nbsp;: activer ce réglage signifie que lorsque quelqu‎‎’un veut attirer votre attention il peut mentionner votre @nom dans un commentaire qui vous sera notifié. Nous recommandons de toujours activer ce paramètre, afin d‎‎’être informé par courriel dans ce cas.
-
-Ces paramètres peuvent être configurés à partir des **paramètres de courriel** de la page utilisateur, qui est accessible par le menu **paramètres de courriel** dans le menu utilisateur.
-
-### Paramètres par défaut des nouveaux groupes
-
-Sous l‎‎’en-tête **Paramètres d‎‎’un groupe particulier** sur la page ** Paramètres de courriel** vous pouvez lire les paramètres de courriel par défaut pour les nouveaux groupes. Afin de modifier les paramètres de courriel par défaut pour tous les nouveaux groupes que vous rejoignez, cliquez sur le lien **Changer les paramètres par défaut** et sélectionnez les nouveaux paramètres par défaut.
-
-### Replying by email
-
-You can reply to any comments you receive directly via email and your replies will be posted in the Loomio thread. You can also choose to view the comment in the context of the thread on Loomio by clicking the **view it on www.loomio.org** link in the footer of the email.
+Si vous avez ignoré une discussion, vous ne serez plus notifié des décisions ou des autres activités de cette discussion, sauf si quelqu'un vous @mentionne. Pour plus d'informations sur les discussions ignorées, lisez [**Naviguez dans Loomio**](reading_loomio.html#discussions-ignorées "goes to reading Loomio section of the help manual").

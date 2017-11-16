@@ -16,7 +16,7 @@ The description gives new members a clear understanding of what that group is fo
 
 Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
 
-The default privacy setting for new groups is **Closed**: *anyone can find the group and ask to join. Only members can see who is in the group. Threads can be public or private.* This means people can find your group and ask to join, but the content of your discussions and decisions is private, unless you allow public threads (explained in the **Group permissions** section below).
+The default privacy setting for new groups is **Closed**. This means people can find your group and ask to join, but the content of your discussions and decisions is private, unless you allow public threads (explained in the **Group permissions** section below).
 
 If you want the content of your discussions and decisions to be public, change your group privacy to **Open**. The members list will only be visible to other members.
 
@@ -62,3 +62,9 @@ This allows anyone in your group to start a proposal within a thread. When this 
 ### Vote on proposals
 
 This allows everyone in your group to state their position on proposals. When it is deselected only group coordinators will be able to state their position on proposals.
+
+## Leaving a group
+
+<img class="screenshot" alt="Group options dropdown menu" src="options_dropdown.png" />
+
+If you are not the sole coordinator of a group then you can leave the group by selecting **Leave Group** from the **Options** menu on the group page. If you are the sole coordinator of your group, you will be prevented from leaving until you appoint another coordinator or deactivate the group.

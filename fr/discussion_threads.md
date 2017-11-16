@@ -14,11 +14,15 @@ Les pages de discussion ont trois sections principales&nbsp;:
 
 ## Commencer une discussion
 
-Vous pouvez commencer un nouveau fil de discussion depuis le bouton **Nouvelle discussion** sur la page du groupe.
+Vous pouvez commencer un nouveau fil de discussion depuis le bouton **Nouvelle discussion** sur la page du groupe ou dans la barre latérale.
 
 Le formulaire **Nouvelle discussion** vous demande un **Titre** et un **Contexte**. Le **Titre** est une description succincte du sujet à discuter. Le **Contexte** est fait pour partager les informations sur le sujet de discussion afin de permettre aux membres de votre groupe d‎’y participer pleinement. Soyez synthétique, mais donnez les informations utiles pour éviter les malentendus ou les débats hors-sujets. Vous pouvez mettre à jour le **Contexte** à tout moment, ce qui peut être un manière utile de résumer un fil de discussion complexe.
 
 Loomio utilise la syntaxe **Markdown** pour la mise en page de texte. Vous pouvez utiliser le Markdown dans la partie contextuelle pour mettre en page le contexte de votre discussion, ou pour mettre une image. Pour plus d‎’informations sur l‎’utilisation du Markdown, cliquez sur le lien **Aide pour la mise en page** en dessous des commentaires en bas de la page des fils de discussion pour ouvrir [le guide Markdown](https://loomio.org/markdown).
+
+<img class="screenshot" alt="Icône de pièce jointe" src="attachments.gif" />
+
+Vous pouvez joindre des fichiers à votre contexte de discussion en utilisant le bouton des pièces-jointes près du bouton **Publier** sur le formulaire de discussion. Il vous sera alors demandé de sélectionner un fichier sur votre appareil.
 
 ## Discussions privées
 

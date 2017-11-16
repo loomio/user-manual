@@ -1,11 +1,19 @@
 {
-    "plugins": ["ga"],
-    "pluginsConfig": {
-      "ga": {
-        "token": "UA-31046122-6"
-      }
-    },
-    "styles": {
-        "website": "styles/website.css"
-    }
+	"plugins": ["ga", "edit-link", "language-picker"],
+	"pluginsConfig": {
+		"ga": {
+			"token": "UA-31046122-6"
+		},
+		"edit-link": {
+			"base": "https://github.com/loomio/user-manual/edit/master",
+			"label": {
+				"en": "Edit This Page",
+				"de": "Seite bearbeiten",
+                "fr": "Modifier cette page"
+			}
+		}
+	},
+	"styles": {
+		"website": "styles/website.css"
+	}
 }
