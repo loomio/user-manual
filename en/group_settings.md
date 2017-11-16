@@ -16,7 +16,7 @@ The description gives new members a clear understanding of what that group is fo
 
 Your privacy settings determine who can find your group, who can see the threads in your group, and how people join.
 
-The default privacy setting for new groups is **Closed**: *anyone can find the group and ask to join. Only members can see who is in the group. Threads can be public or private.* This means people can find your group and ask to join, but the content of your discussions and decisions is private, unless you allow public threads (explained in the **Group permissions** section below).
+The default privacy setting for new groups is **Closed**. This means people can find your group and ask to join, but the content of your discussions and decisions is private, unless you allow public threads (explained in the **Group permissions** section below).
 
 If you want the content of your discussions and decisions to be public, change your group privacy to **Open**. The members list will only be visible to other members.
 

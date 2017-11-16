@@ -9,3 +9,10 @@ img.screenshot {
 }
 
 h2 { border-bottom: none; }
+
+.summary li span {
+    font-weight: bold;
+}
+.summary li a {
+    text-decoration: underline;
+}

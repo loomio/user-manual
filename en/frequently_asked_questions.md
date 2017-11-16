@@ -16,7 +16,7 @@ Yes. Even though there are different levels of group privacy, everyone who wishe
 
 Check out our pricing plans [here](https://www.loomio.org/pricing "opens Pricing page in new tab").
 
-## Can I sign in with Google, Facebook or Twitter?
+## Can I sign in with Google, Facebook or Slack?
 
 Yes, see [Single sign-on](getting_started.html#single-sign-on "moves down the page to single sign on").
 
