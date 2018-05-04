@@ -1,5 +1,5 @@
 # Terms of Service
-The following terms and conditions govern all use of the Loomio Application Service (the “Service”) and all content, services and products available at or through loomio.org (the “Site”). The Service is owned and operated by the Loomio Co-operative Ltd (“Loomio”). The Service is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, Loomio’s [Privacy Policy](https://loomio.gitbooks.io/manual/content/en/privacy_policy.html)) and procedures that may be published from time to time on this Site by Loomio (collectively, the “Agreement”).
+The following terms and conditions govern all use of the Loomio Application Service (the “Service”) and all content, services and products available at or through loomio.org (the “Site”). The Service is owned and operated by the Loomio Co-operative Ltd (“Loomio”). The Service is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, Loomio’s [Privacy Policy](privacy)) and procedures that may be published from time to time on this Site by Loomio (collectively, the “Agreement”).
 
 If you are entering into this agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity, its affiliates and all users who access our services through your account to these terms and conditions, in which case the terms "you" or "your" shall refer to such entity, its affiliates and users associated with it. If you do not have such authority, or if you do not agree with these terms and conditions, you must not accept this agreement and may not use the services.
 
@@ -14,18 +14,18 @@ You are responsible for maintaining the security of your account and password. L
 
 ## Content
 
-If you coordinate a group, comment in a discussion, post links in a discussion, or otherwise make (or allow any third party to make) material available through Loomio (any such material, “Content”), you are entirely responsible for the content of, and any harm resulting from, that Content. That is the case regardless of whether the Content in question constitutes text, graphics, an audio file, or computer software. 
+If you coordinate a group, comment in a discussion, post links in a discussion, or otherwise make (or allow any third party to make) material available through Loomio (any such material, “Content”), you are entirely responsible for the content of, and any harm resulting from, that Content. That is the case regardless of whether the Content in question constitutes text, graphics, an audio file, or computer software.
 
-By making Content available, you represent and warrant that: 
+By making Content available, you represent and warrant that:
 
-* the downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party; 
-* if your employer has rights to intellectual property you create, you have either (i) received permission from your employer to post or make available the Content, including but not limited to any software, or (ii) secured from your employer a waiver as to all rights in or to the Content; 
-* you have fully complied with any third-party licenses relating to the Content, and have done all things necessary to successfully pass through to end users any required terms; 
-* the Content does not contain or install any viruses, worms, malware, Trojan horses or other harmful or destructive content; 
-* the Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites or boost the search engine rankings of third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing); 
-* the Content is not pornographic, does not contain threats or incite violence, and does not violate the privacy or publicity rights of any third party; 
-* your group is not getting advertised via unwanted electronic messages such as spam links on newsgroups, email lists, other groups and web sites, and similar unsolicited promotional methods; 
-* your group is not named in a manner that misleads your readers into thinking that you are another person or company. For example, your group’s name is not the name of a company other than your own; 
+* the downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party;
+* if your employer has rights to intellectual property you create, you have either (i) received permission from your employer to post or make available the Content, including but not limited to any software, or (ii) secured from your employer a waiver as to all rights in or to the Content;
+* you have fully complied with any third-party licenses relating to the Content, and have done all things necessary to successfully pass through to end users any required terms;
+* the Content does not contain or install any viruses, worms, malware, Trojan horses or other harmful or destructive content;
+* the Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites or boost the search engine rankings of third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);
+* the Content is not pornographic, does not contain threats or incite violence, and does not violate the privacy or publicity rights of any third party;
+* your group is not getting advertised via unwanted electronic messages such as spam links on newsgroups, email lists, other groups and web sites, and similar unsolicited promotional methods;
+* your group is not named in a manner that misleads your readers into thinking that you are another person or company. For example, your group’s name is not the name of a company other than your own;
 * and you have, in the case of Content that includes computer code, accurately categorized and/or described the type, nature, uses and effects of the materials, whether requested to do so by Loomio or otherwise.
 
 Without limiting any of those representations or warranties, Loomio has the right (though not the obligation) to, in Loomio’s sole discretion
@@ -33,7 +33,7 @@ Without limiting any of those representations or warranties, Loomio has the righ
 1. refuse or remove any content that, in Loomio’s reasonable opinion, violates any Loomio policy or is in any way harmful or objectionable, or
 2. terminate or deny access to and use of the Service to any individual or entity for any reason, in Loomio’s sole discretion. Loomio will have no obligation to provide a refund of any amounts previously paid.
 
-As a user, you may deactivate your account at any time. Identifying information such as your username and profile photo will no longer be associated with content you have posted. However, the content itself will remain, in order to preserve the integrity of group discussions and decisions.
+As a user, you may deactivate your account at any time. Personally identifying information such as your name, username and profile photo will no longer be associated with content you have posted. However, the content itself will remain, in order to preserve the integrity of group discussions and decisions.
 
 ## Payment and Renewal
 
@@ -51,7 +51,7 @@ We reserve the right to modify these Terms at any time and modified terms are ef
 
 ## Data
 
-Users and group coordinators may request data related to their personal account and group(s) respectively. Loomio will take reasonable efforts to provide these data. Loomio has the right to refuse repetitive or technically difficult requests. For information about how we collect and share user information please refer to Loomio’s [Privacy Policy](https://loomio.gitbooks.io/manual/content/en/privacy_policy.html).
+Users and group coordinators may request data related to their personal account and group(s) respectively. Loomio has the right to refuse repetitive or technically difficult requests. For information about how we collect and share user information please refer to Loomio’s [Privacy Policy](privacy).
 
 ## Termination
 
@@ -93,10 +93,11 @@ This Agreement constitutes the entire agreement between Loomio and You concernin
 
 Loomio is made by the Loomio Co-operative Limited, a worker-owned and New Zealand registered co-operative company located at:
 
+```
 PO Box 27-529
 Marion Square
 Wellington 6141
 New Zealand
+```
 
 Delivery is instantaneous, and no refunds will be given.
-
