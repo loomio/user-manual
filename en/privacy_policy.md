@@ -12,7 +12,7 @@ Loomio also collects potentially personally-identifying information like Interne
 
 ## User Content and Personally Identifiable Information
 
-As a decision-making platform, Loomio hosts discussions, comments, proposals and decision outcomes and other content created by users - “your content”.
+As a decision-making platform, Loomio hosts discussions, comments, proposals and decision outcomes and related content created by users - “your content”.
 
 We also collect the name and email address users log in with. This information usually makes the user personally identifiable, although you are welcome to use a pseudonym and anonymous email address to prevent this.
 
